@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrincetonLoops", "PrincetonLoops\PrincetonLoops.csproj", "{4881C8B9-96DB-4DBF-AC3B-AB031C5528F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4881C8B9-96DB-4DBF-AC3B-AB031C5528F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4881C8B9-96DB-4DBF-AC3B-AB031C5528F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4881C8B9-96DB-4DBF-AC3B-AB031C5528F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4881C8B9-96DB-4DBF-AC3B-AB031C5528F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B1D4DC0-8F59-4F41-90E0-783BFB1A1F24}
+	EndGlobalSection
+EndGlobal
